@@ -9,13 +9,13 @@ tag:
 - components
 - extra
 blog: true
-author: Van Kuang
+author: vankuang
 description: My First post 
 ---
 
 Hey all, here is my first post in github blog. 
 
-Very lucky, our company invite two git experts from Git to give us a sharing on git and github.
+Very lucky, my company invite two git experts from Git to give us a sharing on git and github.
 
 They shared us some useful skills on git and github, and github enterprise looks very good.
 
